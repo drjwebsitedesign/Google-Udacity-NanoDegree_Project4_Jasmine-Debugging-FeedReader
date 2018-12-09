@@ -13,7 +13,7 @@ The feedreader tests were written using Jasmine. The html, css, javascript, feed
 
 How-to load and review my FeedReader specs.
 ----------------------------------------------
-Click here to load and test the Jasmine specs: [FeedReader BDD userTest with Jasmine](https://drjwebsitedesign.github.io/Project4_FeedReader-JasmineTests_Google-Udacity-NanoDegree/) .
+Click here to load and test the Jasmine specs: [FeedReader BDD userTest with Jasmine](https://drjwebsitedesign.github.io/Google-Udacity-NanoDegree_Project4_Jasmine-Debugging-FeedReader/) .
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Why this Project?
